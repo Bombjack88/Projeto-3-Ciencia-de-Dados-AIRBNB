@@ -12,5 +12,5 @@ Bibliotecas Utilizadas:
  - streamlit -> faz a interface gráfica para o deploy
  
  Programas:
- - Projeto_3 -Codido_DS.ipynb -> código da primeira parte (análise, construção e avaliação dos modelos)
+ - Projeto_3 - Codigo_DS.ipynb -> código da primeira parte (análise, construção e avaliação dos modelos)
  - DeployProjetoAirbnb.ipynb -> parte do deploy 
